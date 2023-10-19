@@ -1,0 +1,16 @@
+"apple":"a red fruit"
+1:"Akshay's roll number"
+---
+#lists
+-apple
+-mango 
+-banana
+--- 
+cities:
+ -new delhi
+ -mumbai
+ -karnataka
+ ---
+ cities : [new delhi, mumbai]
+ ---
+ {mango:'yellow fruit',age:55}

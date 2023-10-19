@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<school name="dps" pricipal="someone">
+    <student>
+        <student>
+            <name>Akshay Deshpande</name>
+            <rollno>23</rollno>
+            <marks>55</marks>
+        </student>
+    </students>

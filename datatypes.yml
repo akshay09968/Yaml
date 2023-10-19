@@ -1,0 +1,54 @@
+ #string variables
+ myself: Akshay Deshpande
+ fruit: "apple"
+ job: 'swe'
+
+ bio:
+ Hey my name is Akshay Deshpande.
+ I am a nice dude.
+
+ #write a single line in multiple lines
+ message: >
+ this will
+ be treated 
+ as a single 
+ line
+ 
+
+#integers
+ marks : 34
+ number: 43.32
+ booleanValue: !!bool No #n,N,false,False,FALSE 
+ boolVal: !!bool No
+ #same for true
+
+#specify the type
+zero: !!int 0
+positiveNumber: !!int 45
+negativeNumber: !!int -33
+binaryNumber: !!int 0b01010 
+octalNumber: !!int 06574
+hexa: !!int 0x45
+commaValue: !!int +540_000 #54,000
+exponential numbers: 3.023E56
+
+#floating point numbers
+marks: !!float 54.75
+infinite: !!float .inf
+not a num: .nan
+
+#null
+surname: !!null  # Null or null or ~
+~: this is a null key
+
+
+#date and time
+date: 2002-12-14
+india time: 2001-12-15T02:59:43.1 +5.30
+
+ 
+
+  
+
+
+

@@ -1,0 +1,15 @@
+{
+    "school": [
+        {
+            "name" : "MVHES",
+            "principal" : "someone",
+            "student" : [
+                {
+                    "rollno" : 32,
+                    "name" : "Akshay",
+                    "marks" : 43
+                }
+            ]
+        }
+    ]
+}
